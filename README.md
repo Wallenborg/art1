@@ -6,3 +6,4 @@ This work is a interactive webpage. That showcases an endless stream of tiny, co
 scattered across the screen in a dynamic and unpredictable manner. The artwork utilizes a combination of randomness and meticulous design, 
 generating an ever-changing display of ten-pixel-sized boxes. Each box appears at a different position on the screen, 
 forming an awe-inspiring tapestry of colors that seemingly stretches into eternity.
+http://www.niklaswallenborg.com/hollow.html
